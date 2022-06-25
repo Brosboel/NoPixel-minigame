@@ -371,6 +371,50 @@ export default
             "Pusseltid"
         ]
     },
+    DK : {
+        COLORS : [
+            'sort',
+            'hvid',
+            'blå',
+            'rød',
+            'gul',
+            'orange',
+            'grøn',
+            'lilla'
+        ],
+        SHAPES : [
+            "firkant",
+            "trekant",
+            "rektangel",
+            "cirkel"
+        ],
+        QUESTIONS : [
+            "baggrundsfarve",
+            "farve tekst baggrundsfarve",
+            "form tekst baggrundsfarve",
+            "nummerfarve",
+            "formfarve",
+            "farvetekst",
+            "formtekst",
+            "form"
+        ],
+        MISC: [
+            "OG",
+            "For hurtigt? Øv dig ved at ændre tiden",
+            "TILSLUTTER FORBINDELSE",
+            "GØR NOGLE HACKERMAN TING...",
+            "ADGANGSKODE FLAGGED; KRÆVER HUMAN CAPTCHA INPUT..",
+            "systemet er blevet forbigået.",
+            "Systemet accepterede ikke dine svar",
+            "svaret var",
+            "Godt arbejde, ",
+            "Tiden rante ud",
+            "Du skrev",
+            "Forsøg igen",
+            "Pusselmængde",
+            "Pusseltid"
+        ]
+    },
     NL : {
         COLORS : [
             'zwart',

@@ -5,6 +5,7 @@ export default
     // lingua italiana = 'IT'
     // english language = 'EN'
     // svenska språk = 'SE'
+    // Danske sprog = 'DK'
     SELECTED_LANGUAGE : 'EN',
 
     LANGUAGES : ['EN', 'ES', 'IT', 'FR', 'SE'],
@@ -22,5 +23,8 @@ export default
     },
     SE : {
         COLORS : ['svart', 'vit', 'blå', 'röd', 'gul', 'orange', 'grön', 'lila']
+    },
+    DK : {
+        COLORS : ['sort', 'hvid', 'blå', 'rød', 'gul', 'orange', 'grøn', 'lila']
     }
 }
